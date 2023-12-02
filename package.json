@@ -1,6 +1,6 @@
 {
-  "home": "https://estudart.github.io/mvp_match_memory",
   "name": "mvp_memory_match",
+  "homepage": "https://estudart.github.io/mvp_match_memory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
