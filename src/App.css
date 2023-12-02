@@ -36,3 +36,56 @@
     transform: rotate(360deg);
   }
 }
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Crop the image to cover the entire content area */
+  object-position: top; /* Align the top of the image with the top of the container */
+}
+
+.image-backside {
+  width: 100%;
+  height: 100%;
+  object-position: top;
+}
+
+.container-image {
+  width: 200px; /* Set the width of your content area */
+  height: 200px; /* Set the height of your content area */
+  overflow: hidden; /* Hide the overflow content */
+}
+
+.my-title {
+  text-align: center;
+  font-size: 48px;
+  color: black;
+}
+
+.where {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 18px;
+  color: black;
+}
+
+.my-navbar {
+  padding-left: 2%;
+  background: black;
+  color: white;
+  height: 13vh;
+}
+
+.my-footer {
+  background: black;
+  height: 11.5vh;
+}
+
+.button {
+  background-color: black;
+  color: white;
+}
+
+.card-home {
+  color: black;
+}
