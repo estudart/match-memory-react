@@ -14,7 +14,7 @@ export default function App() {
     <div
       style={{ display: "flex", flexDirection: "column", minHeight: "100vh" }}
     >
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <NavBar />
         <Routes>
           <Route path="/" element={<HomePage />}></Route>
