@@ -18,12 +18,33 @@ const MyNavbar = () => {
 
   return (
     <Navbar bg="dark" variant="dark" expand="lg" className="my-navbar">
-      <Navbar.Brand href="#home">Match Cartoons</Navbar.Brand>
+      <Navbar.Brand>
+        {" "}
+        <Link
+          to={`/`}
+          style={{ textDecorationColor: "black" }}
+          className="nav-link"
+        >
+          Match Cartoons
+        </Link>
+      </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto ">
-          <Nav.Link href="/">Home</Nav.Link>
-          <Nav.Link href="/rules">Rules</Nav.Link>
+          <Link
+            to={`/`}
+            style={{ textDecorationColor: "black" }}
+            className="nav-link"
+          >
+            Homepage
+          </Link>
+          <Link
+            to={`/rules`}
+            style={{ textDecorationColor: "black" }}
+            className="nav-link"
+          >
+            Rules
+          </Link>
           <NavDropdown title="Dropdown" id="basic-nav-dropdown">
             <Link
               to={`/SpongeBob`}
