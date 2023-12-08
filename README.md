@@ -14,19 +14,19 @@ npm
 
 ## Passos de Instalação
 
-1 - Clone o repositório:
-git clone https://github.com/estudart/mvp_match_memory.git
+1. Clone o repositório:
+*git clone https://github.com/estudart/mvp_match_memory.git
 
-2 - Acesse o diretório do projeto:
-cd mvp_match_memory
+2. Acesse o diretório do projeto:
+*cd mvp_match_memory
 
-3 - Instale as dependências:
-npm install
+3. Instale as dependências:
+*npm install
 
-4 - No diretório do projeto, você pode executar os seguintes comandos:
+4. No diretório do projeto, você pode executar os seguintes comandos:
 
-Iniciar o aplicativo em modo de desenvolvimento:
-npm start
+*Iniciar o aplicativo em modo de desenvolvimento:
+*npm start
 
 ==> Isso iniciará o aplicativo no modo de desenvolvimento. Abra http://localhost:3000 no navegador para visualizar.
 
