@@ -18,7 +18,7 @@ Certifique-se de ter as seguintes ferramentas instaladas antes de prosseguir:
 * git clone https://github.com/estudart/mvp_match_memory.git
 
 2. Acesse o diretório do projeto:
-*cd mvp_match_memory
+* cd mvp_match_memory
 
 3. Instale as dependências:
 * npm install
