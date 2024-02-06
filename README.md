@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# Match Cartoons
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O objetivo desse projeto é criar um jogo da memória para os temas: Naruto, DragonBall e SpongeBob
 
-## Available Scripts
+## Instruções de Instalação
 
-In the project directory, you can run:
+Siga estas etapas para configurar o ambiente local e executar o projeto em sua máquina.
 
-### `npm start`
+## Pré-requisitos
+Certifique-se de ter as seguintes ferramentas instaladas antes de prosseguir:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  * Node.js
+  * npm
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Passos de Instalação
 
-### `npm test`
+1. Clone o repositório:
+  * git clone https://github.com/estudart/mvp_match_memory.git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+2. Acesse o diretório do projeto:
+  * cd mvp_match_memory
 
-### `npm run build`
+3. Instale as dependências:
+  * npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. No diretório do projeto, você pode executar o seguinte comando:
+  * npm start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+==> Isso iniciará o aplicativo no modo de desenvolvimento. Abra http://localhost:3000 no navegador para visualizar.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Esperamos que você aproveite o uso do Seu Projeto! Se você tiver alguma dúvida ou problema, não hesite em entrar em contato conosco.
 
-### `npm run eject`
+Link do projeto no Figma:
+https://www.figma.com/file/B4GHvTGihi1cBHNqCKJbfv/Untitled?type=design&node-id=0%3A1&mode=design&t=gENqtOLYaOH5X7Jz-1
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
