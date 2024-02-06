@@ -1,6 +1,15 @@
 export default function Footer() {
+  const footerStyle = {
+    position: "relative",
+    bottom: "0",
+    width: "100%",
+    marginTop: "10%",
+  };
   return (
-    <footer className="d-flex flex-wrap justify-content-between align-items-center py-3 mt-5 border-top my-footer">
+    <footer
+      className="d-flex flex-wrap justify-content-between align-items-center py-3 mt-5 border-top my-footer"
+      style={footerStyle}
+    >
       <div className="col-md-4 d-flex align-items-center">
         <a
           href="/"
