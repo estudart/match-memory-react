@@ -36,6 +36,6 @@ We hope you enjoy using Your Project! If you have any questions or issues, feel 
 [Match Memory Game](https://estudart.github.io/mvp_match_memory/)
 
 Project Link on Figma:
-[![Figma](https://www.figma.com/file/B4GHvTGihi1cBHNqCKJbfv/Untitled?type=design&node-id=0%3A1&mode=design&t=gENqtOLYaOH5X7Jz-1)](https://www.figma.com/file/B4GHvTGihi1cBHNqCKJbfv/Untitled?type=design&node-id=0%3A1&mode=design&t=gENqtOLYaOH5X7Jz-1)
+[Figma](https://www.figma.com/file/B4GHvTGihi1cBHNqCKJbfv/Untitled?type=design&node-id=0%3A1&mode=design&t=gENqtOLYaOH5X7Jz-1)
 
 
