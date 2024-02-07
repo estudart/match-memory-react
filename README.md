@@ -1,40 +1,41 @@
 # Match Cartoons
 
-O objetivo desse projeto é criar um jogo da memória para os temas: Naruto, DragonBall e SpongeBob
+The objective of this project is to create a memory game for the themes: Naruto, DragonBall, and SpongeBob.
 
-## Instruções de Instalação
+[![Project Image](https://github.com/estudart/mvp_match_memory/blob/main/match_memory.png)](https://github.com/estudart/mvp_match_memory/blob/main/match_memory.png)
 
-Siga estas etapas para configurar o ambiente local e executar o projeto em sua máquina.
+## Installation Instructions
 
-## Pré-requisitos
-Certifique-se de ter as seguintes ferramentas instaladas antes de prosseguir:
+Follow these steps to set up the local environment and run the project on your machine.
+
+## Prerequisites
+Make sure you have the following tools installed before proceeding:
 
   * Node.js
   * npm
 
-## Passos de Instalação
+## Installation Steps
 
-1. Clone o repositório:
-  * git clone https://github.com/estudart/mvp_match_memory.git
+1. Clone the repository:
+   * git clone https://github.com/estudart/mvp_match_memory.git
 
-2. Acesse o diretório do projeto:
-  * cd mvp_match_memory
+2. Access the project directory:
+   * cd mvp_match_memory
 
-3. Instale as dependências:
-  * npm install
+3. Install the dependencies:
+   * npm install
 
-4. No diretório do projeto, você pode executar o seguinte comando:
-  * npm start
+4. In the project directory, you can run the following command:
+   * npm start
 
-==> Isso iniciará o aplicativo no modo de desenvolvimento. Abra http://localhost:3000 no navegador para visualizar.
+==> This will start the application in development mode. Open http://localhost:3000 in the browser to view.
 
-Esperamos que você aproveite o uso do Seu Projeto! Se você tiver alguma dúvida ou problema, não hesite em entrar em contato conosco.
+We hope you enjoy using Your Project! If you have any questions or issues, feel free to contact us.
 
-Link do projeto no Figma:
-https://www.figma.com/file/B4GHvTGihi1cBHNqCKJbfv/Untitled?type=design&node-id=0%3A1&mode=design&t=gENqtOLYaOH5X7Jz-1
+## Application Link
+[Match Memory Game](https://estudart.github.io/mvp_match_memory/)
 
-
-
-
+Project Link on Figma:
+[![Figma](https://www.figma.com/file/B4GHvTGihi1cBHNqCKJbfv/Untitled?type=design&node-id=0%3A1&mode=design&t=gENqtOLYaOH5X7Jz-1)](https://www.figma.com/file/B4GHvTGihi1cBHNqCKJbfv/Untitled?type=design&node-id=0%3A1&mode=design&t=gENqtOLYaOH5X7Jz-1)
 
 
