@@ -2,7 +2,7 @@
 
 The objective of this project is to create a memory game for the themes: Naruto, DragonBall, and SpongeBob.
 
-[![Project Image](https://github.com/estudart/match-memory-react/blob/main/match_memory.png)](https://github.com/estudart/match-memory-react/blob/main/match_memory.png)
+[![Project Image](https://github.com/estudart/match-memory-react/blob/main/match_memory.PNG)](https://github.com/estudart/match-memory-react/blob/main/match_memory.PNG)
 
 ## Installation Instructions
 
