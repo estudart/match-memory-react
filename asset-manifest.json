@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mvp_match_memory/static/css/main.6c18afac.css",
-    "main.js": "/mvp_match_memory/static/js/main.cbd9adec.js",
-    "static/media/Vegeta.png": "/mvp_match_memory/static/media/Vegeta.3ae627c92b4a30e9d1db.png",
-    "static/media/back-card.jpg": "/mvp_match_memory/static/media/back-card.bd5f1872e35097d13921.jpg",
-    "static/media/Freeza.webp": "/mvp_match_memory/static/media/Freeza.3505c11ebe7aff45a400.webp",
-    "static/media/Gohan.webp": "/mvp_match_memory/static/media/Gohan.afa68f8c618bc0927155.webp",
-    "static/media/Trunks.webp": "/mvp_match_memory/static/media/Trunks.bdd029dace0c33b4d8fe.webp",
-    "static/media/Piccolo.webp": "/mvp_match_memory/static/media/Piccolo.3653aff7b50ae32593d2.webp",
-    "static/media/Goku.webp": "/mvp_match_memory/static/media/Goku.e45a38bd3c321f90ab80.webp",
-    "static/media/SpongeBobAll.jpg": "/mvp_match_memory/static/media/SpongeBobAll.78eff908b15d51e4d02c.jpg",
-    "static/media/NarutoAll.jpg": "/mvp_match_memory/static/media/NarutoAll.58a0c5a76d2ed94af5b8.jpg",
-    "static/media/DragonBallAll.jpg": "/mvp_match_memory/static/media/DragonBallAll.b183fee7631c261e5005.jpg",
-    "static/media/Kakashi.jpg": "/mvp_match_memory/static/media/Kakashi.0ee0a915a5c55d0194f2.jpg",
-    "index.html": "/mvp_match_memory/index.html",
-    "main.6c18afac.css.map": "/mvp_match_memory/static/css/main.6c18afac.css.map",
-    "main.cbd9adec.js.map": "/mvp_match_memory/static/js/main.cbd9adec.js.map"
+    "main.css": "/match-memory-react/static/css/main.6c18afac.css",
+    "main.js": "/match-memory-react/static/js/main.ad285b59.js",
+    "static/media/Vegeta.png": "/match-memory-react/static/media/Vegeta.3ae627c92b4a30e9d1db.png",
+    "static/media/back-card.jpg": "/match-memory-react/static/media/back-card.bd5f1872e35097d13921.jpg",
+    "static/media/Freeza.webp": "/match-memory-react/static/media/Freeza.3505c11ebe7aff45a400.webp",
+    "static/media/Gohan.webp": "/match-memory-react/static/media/Gohan.afa68f8c618bc0927155.webp",
+    "static/media/Trunks.webp": "/match-memory-react/static/media/Trunks.bdd029dace0c33b4d8fe.webp",
+    "static/media/Piccolo.webp": "/match-memory-react/static/media/Piccolo.3653aff7b50ae32593d2.webp",
+    "static/media/Goku.webp": "/match-memory-react/static/media/Goku.e45a38bd3c321f90ab80.webp",
+    "static/media/SpongeBobAll.jpg": "/match-memory-react/static/media/SpongeBobAll.78eff908b15d51e4d02c.jpg",
+    "static/media/NarutoAll.jpg": "/match-memory-react/static/media/NarutoAll.58a0c5a76d2ed94af5b8.jpg",
+    "static/media/DragonBallAll.jpg": "/match-memory-react/static/media/DragonBallAll.b183fee7631c261e5005.jpg",
+    "static/media/Kakashi.jpg": "/match-memory-react/static/media/Kakashi.0ee0a915a5c55d0194f2.jpg",
+    "index.html": "/match-memory-react/index.html",
+    "main.6c18afac.css.map": "/match-memory-react/static/css/main.6c18afac.css.map",
+    "main.ad285b59.js.map": "/match-memory-react/static/js/main.ad285b59.js.map"
   },
   "entrypoints": [
     "static/css/main.6c18afac.css",
-    "static/js/main.cbd9adec.js"
+    "static/js/main.ad285b59.js"
   ]
 }
