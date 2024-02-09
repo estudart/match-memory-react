@@ -2,7 +2,7 @@
 
 The objective of this project is to create a memory game for the themes: Naruto, DragonBall, and SpongeBob.
 
-[![Project Image](https://github.com/estudart/mvp_match_memory/blob/main/match_memory.png)](https://github.com/estudart/mvp_match_memory/blob/main/match_memory.png)
+[![Project Image](https://github.com/estudart/match-memory-react/blob/main/match_memory.png)](https://github.com/estudart/match-memory-react/blob/main/match_memory.png)
 
 ## Installation Instructions
 
@@ -17,7 +17,7 @@ Make sure you have the following tools installed before proceeding:
 ## Installation Steps
 
 1. Clone the repository:
-   * git clone https://github.com/estudart/mvp_match_memory.git
+   * git clone https://github.com/estudart/match-memory-react.git
 
 2. Access the project directory:
    * cd mvp_match_memory
